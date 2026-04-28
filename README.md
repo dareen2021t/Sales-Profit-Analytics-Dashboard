@@ -67,7 +67,7 @@ This dashboard helps stakeholders:
 
 ## Project Files
 
-* `Sales & Profit Dashboard.pbix` → Power BI File
+* `sales analisis.pbix` → Power BI File
 * Screenshots → Dashboard Preview
 
 
